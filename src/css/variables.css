@@ -1,0 +1,7 @@
+:root{
+    --primary-blue-600: hsl(185, 75%, 39%);
+    --primary-navy-950: hsl(229, 23%, 23%);
+    --primary-gray-500: hsla(227, 10%, 46%, 0.562);
+
+    --neutral-gray-100: hsl(225, 10%, 92%);
+}
